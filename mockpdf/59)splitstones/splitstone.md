@@ -47,5 +47,10 @@ This is used to guess if it can be the donor pile from which stones are split an
 
 If both conditions are true, prints YES; otherwise, prints NO.
 
+## codechef Link:
+https://www.codechef.com/problems/SPLST?tab=statement
+## codechef sum explanation:
+https://www.codechef.com/viewsolution/1171811990
+
 
 
