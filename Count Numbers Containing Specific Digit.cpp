@@ -6,5 +6,5 @@ class Solution {
         int z=count(arr.begin(), arr.end(), 0);
         int N=arr.size(); 
         return tot-(9-N+z)*pow(10-N,n-1);
-    }
+    } 
 };
