@@ -1,4 +1,5 @@
-class Solution {
+
+/**/class Solution {
   public:
     int countValid(int n, vector<int>& arr) {
         // code here
